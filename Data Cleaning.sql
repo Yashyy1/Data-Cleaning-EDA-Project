@@ -1,4 +1,4 @@
--- Data Cleaning
+-- Data cleaning
 
 select * from layoffs;
 -- 1. Remove Duplicates
