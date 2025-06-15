@@ -1,4 +1,4 @@
-select * from layoffs_dummy2;
+SELECT * FROM layoffs_dummy2;
 
 -- Max number of layoffs by a company in a day
 select MAX(total_laid_off)
